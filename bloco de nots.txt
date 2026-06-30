@@ -1,0 +1,19 @@
+ a. Qual seria a versão mais simples do seu projeto multidisciplinar, que ainda cumpre sua função principal?
+
+A versão mais simples do nosso projeto seria um site informativo para a ONG de idosos. Ele teria uma página inicial apresentando a instituição, sua missão e os serviços oferecidos, além de uma página de contato para que voluntários, doadores e idosos possam se comunicar com a ONG. Dessa forma, o site já cumpriria sua principal função: divulgar o trabalho da organização e facilitar o contato com o público.
+
+ b. Como essa versão poderia ajudar a validar a ideia sem incluir todas as funcionalidades desejadas?
+
+Essa versão inicial ajudaria a verificar se as pessoas conseguem encontrar facilmente as informações que procuram e se demonstram interesse em participar das atividades da ONG, fazer doações ou atuar como voluntárias. Com o feedback dos usuários, a equipe poderá identificar o que precisa ser melhorado antes de investir em funcionalidades mais complexas, economizando tempo e recursos.
+
+ c. Quais características essenciais devem ser apresentadas no projeto multidisciplinar para que a proposta seja útil para os usuários?
+
+O site deve possuir uma interface simples, organizada e acessível, principalmente porque alguns usuários podem ter pouca experiência com tecnologia. Também é importante apresentar informações claras sobre a ONG, seus projetos e eventos, além de disponibilizar meios de contato fáceis de encontrar. Outro ponto essencial é que o site funcione bem tanto em computadores quanto em celulares.
+
+ d. Quais funcionalidades do projeto multidisciplinar poderiam ser deixadas de fora na primeira versão, mas que poderiam ser adicionadas posteriormente?
+
+Na primeira versão, o foco pode ser apenas na divulgação da ONG e no contato com os usuários. Recursos como cadastro de voluntários, sistema de doações online, área para notícias e eventos, agendamento de visitas, chat de atendimento e painel administrativo podem ser implementados futuramente, conforme as necessidades da instituição e o retorno dos usuários.
+
+ e. Qual é a importância de lançar uma versão simplificada do projeto multidisciplinar antes de se comprometer com um produto final completo?
+
+Lançar uma versão simplificada é importante porque permite testar a proposta do projeto com usuários reais antes de desenvolver todas as funcionalidades planejadas. Dessa forma, a equipe consegue identificar possíveis problemas, entender melhor as necessidades do público-alvo e realizar melhorias com base em opiniões concretas. Além disso, essa estratégia reduz riscos, evita gastos desnecessários e aumenta as chances de sucesso do projeto final.
